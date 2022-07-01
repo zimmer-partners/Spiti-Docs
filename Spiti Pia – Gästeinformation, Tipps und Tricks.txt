@@ -2,7 +2,8 @@
 
 ## Essenzielles
 
-1. **Wasser** sind auf Tinos extrem rar und kostbar:
+1. **Wasser** sind auf Tinos extrem rar und kostbar. Es gibt vielerorts noch keine Kläranlagen:
+    - **WC-Papier** in den dafür vorgesehenen Kübelchen entsorgen und *nicht* mit dem Abwasser runter spülen. Das des Spiti Pia ist leuchtgelb.
     - **Duschen** wenn möglich kurz halten.
     - **Geschirr** wenn möglich mit verschlossenem Abfluss waschen.
     - **Wasser** wenn möglich wiederverwenden.
@@ -40,7 +41,7 @@
 - **Kartenmaterial** findet man in der rechten Schublade der Esstisches oben. Bitte wieder zurücklegen.
 - **Insekten** sind vorwiegend Nutztiere. Vor allem Spinnen, Eidechsen und Geckos vertilgen Moskitos und sonstige lästige Mitbewohner.
 - **Pflanzen** auf dem Balkon gerne zwei- bis dreimal wöchentlich kräftig wässern, vor allem in den heissen Sommermonaten. 
-- **Zahlreiche weitere Tipps und Tricks** von uns und anderen Gästen findet ihr im Gästebuch in der rechten Schublade des Esstisches oben. Ihr könnt sehr gerne weitere Tipps und Meldungen hinterlassen und’s dann wieder zurücklegen.
+- **Zahlreiche weitere Tipps und Tricks** von uns und anderen Gästen findet ihr im Gästebuch in der rechten Schublade des Esstisches oben. Ihr könnt gerne weitere Tipps und Meldungen hinterlassen und’s dann wieder zurücklegen.
 
 - - -
 
@@ -52,7 +53,7 @@ Simpel: Verbindet euch mit dem Netzwerk *Spiti Pia* und dem Passwort `The-sound-
 
 > Kann ich Musik und Filme streamen?
 
-Die Geschwindigkeit unserer Internetverbindung schwankt je nach Anzahl Netzteilnehmer und Ort sehr stark. Sie reicht bei gutem Empfang auf dem Hotspot auch für Streaming. In den Sommermonaten ist das Datenvolumen unbegrenzt, danach jedoch auf 200GB im Jahr begrenzt. Wir sind deshalb froh, wenn Gäste aus Rücksicht von September bis Juni auf Streaming verzichten. Ist das Datenvolumen aufgebraucht steht *Digital Detox* im Programm.
+Die Geschwindigkeit unserer Internetverbindung schwankt je nach Anzahl Netzteilnehmer und Ort stark. Sie reicht bei gutem Empfang auf dem Hotspot auch für Streaming. In den Sommermonaten ist das Datenvolumen unbegrenzt, danach jedoch auf 200GB im Jahr begrenzt. Wir sind deshalb froh, wenn Gäste aus Rücksicht von September bis Juni auf Streaming verzichten. Ist das Datenvolumen aufgebraucht steht *Digital Detox* im Programm.
 
 > Was heisst „Chora“ (Χορα)?
 
@@ -60,11 +61,11 @@ Die Geschwindigkeit unserer Internetverbindung schwankt je nach Anzahl Netzteiln
 
 > Wo kann ich Lebensmittel einkaufen?
 
-Es gibt in Chora zwei kleinere und zwei grössere Supermärkte. Einer kleinerer am nördlichen Ende der Zeile mit den Bars am äusseren Hafenbecken und einer gleich an der linken Ecke der Ausfahrtsstrasse von Chora nach Triandaros. Die beiden grösseren liegen am Stadtrand, der eine an der Schnellstrasse nach Tripotamos, der andere hinter dem Wohnquartier südöstlich der Ausfahrtsstrasse nach Triandaros in der der Nähe des Campingplatzes und des Health Centers. 
+Es gibt in Chora zwei kleinere und zwei grössere Supermärkte. Einer kleinerer am nordwestlichen Ende der Zeile mit den Bars am äusseren Hafenbecken und einer gleich an der linken Ecke der Ausfahrtsstrasse von Chora nach Triandaros. Die beiden grösseren liegen am Stadtrand, der eine an der Schnellstrasse nach Tripotamos, der andere hinter dem Wohnquartier südöstlich der Ausfahrtsstrasse von Chora nach Triandaros in der der Nähe des Campingplatzes und des Health Centers. 
 
 > Wann sind die Geschäfte geöffnet?
 
-Die Öffnungszeiten passen sich meist der Nachfrage durch den Tourismus und dem Klima an. Generell herrscht den ganzen Sommer über zwischen zirka 14:00 und 19:00 Siestazeit; die Geschäfte sind deshalb oft nur in den Morgenstunden und Abendstunden geöffnet und im Dorf wird in dieser Zeit um Ruhe gebeten.
+Die Öffnungszeiten passen sich der Nachfrage durch den Tourismus und dem Klima an. Generell herrscht den ganzen Sommer über zwischen zirka 14:00 und 19:00 Siestazeit; die Geschäfte sind deshalb oft nur in den Morgenstunden und Abendstunden geöffnet und im Dorf wird während der Siesta um Ruhe gebeten.
 
 > Wo kann ich einen Personenwagen mieten?
 
@@ -74,7 +75,7 @@ Uns verbindet seit vielen Jahrzehnten eine Freundschaft mit *Dimitris Rent a Car
 
 Ja, es gibt Busse von Chora nach Triandaros, diverse Strände, und Dörfer und zurück. Die Busse von Chora nach Triandaros fahren im Endziel nach *Steni* im Hochland. 
 
-Am besten meldet man beim Einsteigen an, dass man in Triandaros aussteigen will. Bei der Fahrt hoch, fährt der Bus zuweilen nicht bis ins Dorf. Man kann dann aber am Abzweiger der Hauptstrasse aussteigen; von dort über *Berdemiaros* sind es dann etwa 10 Minuten Fussweg nach Triandaros.
+Am besten meldet man beim Einsteigen an, dass man in Triandaros aussteigen will. Bei der Fahrt hoch, fährt der Bus zuweilen nicht bis ins Dorf. Man kann dann aber am Abzweiger der Hauptstrasse aussteigen; von dort über *Berdemiaros* sind es dann 10 Minuten Fussweg nach Triandaros.
 
 Um von Triandaros nach Chora zu fahren, wartet man zirka 15 Minuten nach der angegebenen Abfahrtszeit von Steni an der Hauptstrasse.
 
@@ -82,15 +83,15 @@ Busfahrpläne kann man im Büro der Busgesellschaft Ktel an der Rampe zur Auffah
 
 > Wie steht’s mit Autostop?
 
-Autostop war lange einer unserer häufig genutzten Verkehrsmittel. Auch heutzutage halten viele Personenwagen noch ganz von alleine, geht man an einer heissen Strasse entlang. Sitzen Touristen am Steuer, hilft es zuweilen, auch mal den Daumen hochzuhalten. 
+Autostop war lange einer unserer häufig genutzten Verkehrsmittel. Auch heutzutage halten viele Personenwagen noch von alleine, geht man an einer heissen Strasse entlang. Sitzen Touristen am Steuer, hilft es zuweilen, auch mal den Daumen hochzuhalten. 
 
 > Wie weit ist es bis in die Stadt?
 
-Zu Fuss sind es der Stasse und dem Plattenweg an der Abzweigung nach Mutados und Tripotamos zirka 4km bis ins Zentrum von Chora. Moritz braucht dazu zirka eine Stunde. Komplett der Strasse entlang sind es wesentlich mehr Kilometer. ￼
+Zu Fuss sind es der Stasse und dem Plattenweg an der Abzweigung nach Mutados und Tripotamos zirka 4 Kilometer bis ins Zentrum von Chora. Moritz braucht dazu zirka eine Stunde. Komplett der Hauptstrasse entlang sind es drei Kilometer mehr. ￼
 
 > Wo kann ich hin, sollte ich krank werden oder verunfallen?
 
-Erste gute Adressen sind sicher die vielen Apotheken in Chora. Darüber hinaus gibt es dort auch die Health Station des öffentlichen, griechischen Gesundheitssystems. Sie liegt in der Nähe des grossen Supermarktes nördlich der Ausfahrtsstrasse von Chora nach Triandaros.
+Erste gute Adressen sind die vielen Apotheken in Chora. Darüber hinaus gibt es dort die Health Station des öffentlichen, griechischen Gesundheitssystems. Sie liegt in der Nähe des grossen Supermarktes nördlich der Ausfahrtsstrasse von Chora nach Triandaros.
 
 > Wo finde ich digitale Informationen von euch?
 

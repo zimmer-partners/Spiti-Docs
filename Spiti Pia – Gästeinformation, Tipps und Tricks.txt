@@ -1,5 +1,7 @@
 # Spiti Pia – Gästeinformation, Tipps und Tricks
 
+[[English](/#en) translation below.]
+
 ## Essenzielles
 
 1. **Wasser** sind auf Tinos extrem rar und kostbar. Es gibt vielerorts noch keine Kläranlagen:
@@ -26,9 +28,7 @@
     - **Stromhauptschalter** im Verteiler beim Bad ausschalten.
     - **Alle Türen und Fenster oben und unten** mit dem Schlüssel von innen verriegeln.
     - **Haus durch Küchentür** verlasen und von aussen mit dem Schlüssel verriegeln.
-    - **Schlüssel im blauen Topf** verstecken. Falls nicht anders vereinbart.
-
-- - -
+    - **Schlüssel im blauen Topf auf der Terrasse** verstecken. Falls nicht anders vereinbart.
 
 ## Tipps und Tricks
 
@@ -42,8 +42,6 @@
 - **Insekten** sind vorwiegend Nutztiere. Vor allem Spinnen, Eidechsen und Geckos vertilgen Moskitos und sonstige lästige Mitbewohner.
 - **Pflanzen** auf dem Balkon gerne zwei- bis dreimal wöchentlich kräftig wässern, vor allem in den heissen Sommermonaten. 
 - **Zahlreiche weitere Tipps und Tricks** von uns und anderen Gästen findet ihr im Gästebuch in der rechten Schublade des Esstisches oben. Ihr könnt gerne weitere Tipps und Meldungen hinterlassen und’s dann wieder zurücklegen.
-
-- - -
 
 ## Oft gestellte Fragen
 
@@ -105,18 +103,135 @@ Das Spiti Pia könnt ihr am besten buchen, indem ihr uns eine Anfrage mit den ge
 
 Die Polas sind über die Jahre durch Pia, die Familie und Freunde entstanden. 
 
-- - -
-
 ## Spezifisches für Gäste in der Nebensaison
 
-## Essenzielles
+### Essenzielles
 
 1. **Strom** sind auf Tinos äusserst kostbar, heizen ist teuer und aufgrund der Bauweise schwierig:
     - **Die Bodenheizung** in der Küche steuert man über die Konsole rechts der Küchentür. Sie liefert am effektivsten konstante Wärme, braucht aber bis zu einer Stunde um sich aufzuwärmen. Man schaltet sie über den Schieber an der Unterseite ein oder aus. Bitte nicht mehr als zirka 25 Grad einstellen und geduldig bleiben.
     - **Heizdecken** für die Nacht sind sehr effektiv und vergleichsweise energieeffizient. Man findet sie im Regal hinter dem weissen Vorhang in der alten Küche oben.
     - **Heizkörper** unten und oben nur in absoluten Ausnahmefällen und so kurz wie möglich einschalten. Aufgrund der Bauweise und des Klimas im Haus, verpufft deren Wärme sehr schnell. Bitte nur einschalten, wenn man zuhause ist und sicher stellen kann, das Möbel oder Textilen in der Nähe keinen Schaden nehmen oder Feuer fangen.
 
-## Wichtiges
+### Wichtiges
 
 2. **Hausstaub** gibt es durch Wind, Wetter, See und die traditionelle Bauweise relativ viel:
     - **Staubsaugersäcke** öfters wechseln als zu Hause, da sich schnell viel, schwerer Sand ansammelt.
+
+- - -
+
+# Spiti Pia - Guest Information, Tips and Tricks {#en}
+
+## Essentials
+
+1. **Water** is extremely rare and precious on Tinos. In many places there are still no sewage treatment plants:
+    - **Dispose of toilet paper** in the buckets provided and do *not* flush it down the drain. Spiti Pia's bucket is bright yellow.
+    - **Keep showers** short if possible.
+    - **Wash dishes** with the drain closed if possible.
+    - **Reuse water** whenever possible.
+    - **Laundry** can be washed in the machine in the kitchen. Please read the instructions before the first wash, put them back on the machine and add *Calgon* before staring the program.
+    - **Use detergents**, washing powder, shampoos and other additives as sparingly as possible.
+2. **Electricity** on the island comes almost exclusively from non-renewable sources and is expensive:
+    - **Switch off hot water** after each use with the *boiler* switch in the lower distribution box and switch it on about 10 minutes before use.
+    - **Do not use radiators** and all other heaters during the summer months and in the off-season.
+3. **Waste** is a big problem. There is neither a waste separation nor an incineration plant on the island:
+    - **Drop household waste** at the village's entrance or exit into the green containers.
+    - **Drop glass** at the entrance or exit of the village into the blue containers.
+
+## Important
+
+1. **Pets** are cute, but there are far too many cats in the village and unfortunately most of them won't survive the harsh, lonely winter:
+    - **Cats** are not to be tolerated in the house or on the terrace.
+    - **Dogs** are not allowed in the house and on the terrace.
+3. **When moving out** please note the following check list:
+    - **Put used laundry** in the basket in front of the washing machine.
+    - **Turn off the main power switch** in the distributor by the bathroom.
+    - **Lock all doors and windows upstairs and downstairs** with the key from the inside.
+    - **Exit the house through the kitchen door** and lock it from the outside with the key.
+    - **Hide the house key in blue pot on the balcony**. Unless otherwise instructed.
+
+## Tips and tricks
+
+- **Bath towels** are red and stored in the black sideboard in the basement.
+- **Beach towels** are coloured and stored in the black sideboard in the basement.
+- **Bed linen** is stored in the drawer of the wooden cupboard on the first floor. Blue is for the double bed on the upper floor, red for the single bed and white for the double bed in the basement.
+- **Pillowcases** are stored in the drawer of the wooden cupboard above.
+- **Summer duvets** are stored under the mattress of the upper single bed and the upper double bed.
+- **Winter duvets** can be found under the mattress of the upper double bed.
+- **Maps** can be found in the right-hand drawer of the dining table above. Please put them back.
+- **Insects** are mainly beneficial organisms. Especially spiders, lizards and geckos kill mosquitoes and other annoying inhabitants.
+- **Water the plants** on the balcony vigorously two to three times a week, especially in  summer months.
+- **Numerous other tips and tricks** from us and other guests can be found in the guestbook in the right-hand drawer of the dining table above. You are welcome to leave further tips and messages and then put it back.
+
+## Frequently asked questions
+
+> How do I connect to the Spiti Pia WiFi?
+
+Simple: Connect to the network *Spiti Pia* and use the password `The-sound-of-the-sea.`. The hotspot is mounted at the bottom of the kitchen, to the right of the crockery shelves, but can also be taken upstairs. Its battery lasts about four hours. Please do not remove it from the Spiti.  
+
+> Can I stream music and films?
+
+The speed of our internet connection varies greatly depending on the number of network subscribers and location. With good reception on the hotspot, connections should be fast enough for streaming. In the summer months, the data volume is unlimited, after that it is limited to 200GB per year. We are therefore happy if guests refrain from streaming from September to June out of consideration. Once the data volume is used up, *Digital Detox* is live.
+
+> What does "Chora" (Χορα) mean?
+
+"Chora" means "town" and refers to the main town on the islands. On Tinos, it's Tinos Town.
+
+> Where can I buy groceries?
+
+There are two smaller and two larger supermarkets in Chora. One smaller one at the north-west end of the row of bars on the outer harbour and one just off the left-hand corner of the exit road from Chora to Triandaros. The two larger ones are on the outskirts of town, one at the highway to Tripotamos, the other behind the residential area southeast of the exit road from Chora to Triandaros near the campsite and the health centre.
+
+> When are the shops open?
+
+The opening hours are adapted to the demand of tourism and the climate. Generally, there is a siesta period between about 14:00 and 19:00 throughout the summer; shops are therefore open in the morning and evening hours and people in the village are asked to keep quiet during siesta hours.
+
+> Where can I rent a car?
+
+We are friends with *Dimitris Rent a Car* for many decades. Offices are located on the right hand side on the exit road from Chora to Triandaros. Likewise our mechanic *Dellatolas* rents cars. You can find business cards with their details in our guestbook.
+
+> Is there public transport?
+
+Yes, there are buses from Chora to Triandaros, various beaches, and to the villages and back. The buses from Chora to Triandaros are labeled with *Steni*, a village in the highlands.
+
+It is best to announce you want to get off at Triandaros when boarding buses. On the way up, the bus sometimes does not go all the way to the village. However, you can get off at the junction of the main road; from there it's a 10-minute walk to Triandaros via *Berdemiaros*.
+
+To get from Triandaros to Chora, wait on the main road for about 15 minutes after the departure time from Steni.
+
+Bus timetables are available from the Ktel bus company offices at the ramp to Kionia on the outer harbour.
+
+> What about hitchhiking?
+
+Hitchhiking has long been one of our most frequently used ways to travel. Even today, many passenger cars stop by themselves when walking along a hot road. When tourists are behind the wheel, a thumbs-up might help.
+
+> How far is it to the city?
+
+On foot, it's about 4 kilometres along the main road and the paving slab path at the turnoff to Mutados and Tripotamos. It takes Moritz about an hour to hike to Chora. It's three kilometres more along the main road only.
+
+> Where can I go if I get sick?
+
+Good addresses are the many pharmacies in Chora. There is a Health Station of the Greek public health system too. It is located near the large supermarket north of the exit road from Chora to Triandaros near the campsite.
+
+> Where can I find digital information from you?
+
+You can find more information about the house, the village and the island and many photos and tips for excursions at <https://spitipia.ch/>.
+
+> How can I book another stay at Spiti Pia?
+
+The best way to book Spiti Pia is to send us an enquiry with your planned travel dates to the email address <ferien@spitipia.ch>.
+
+> Who is on the Polaroid photos?
+
+The Polaroids were taken over the years by Pia, family and friends.
+
+## Specifics for guests in the low season
+
+### Essentials
+
+1. **Electricity** is extremely precious on Tinos, heating is expensive and difficult due to the construction of the house:
+    - **The underfloor heating** in the kitchen is controlled from the console to the right of the kitchen door. It provides constant heat most effectively, but takes up to an hour to warm up. It is switched on and off via the slider on the underside of the console. Please do not set it to more than about 25 degrees and remain patient.
+    - **Heating blankets** for the night are very effective and comparatively energy-efficient. You can find them on the shelf behind the white curtain in the old kitchen on the upper floor.
+    - **Switch on radiators** downstairs and upstairs only if absolutely necessary and as briefly as possible. Due to the construction of the house and the climate in the house, their heat dissipates very quickly. Please only switch on when you are at home and can ensure that furniture or textiles nearby will not be damaged or catch fire.
+
+### Important
+
+2. **House dust** is relatively abundant due to wind, weather, sea and traditional construction methods:
+    - **Change hoover bags** more often than at home, as a lot of heavy sand accumulates quickly.

@@ -2,6 +2,12 @@
 
 [[English](/#en) translation below.]
 
+## Contact {#contact}
+
+- Name: Moritz Zimmer
+- Phone: [+41 76 596 50 77](sms:+41765965077)
+- E-Mail: <moritz@sipitpia.com>
+
 ## Essenzielles
 
 1. **Wasser** sind auf Tinos extrem rar und kostbar. Es gibt vielerorts noch keine Kläranlagen:
@@ -44,6 +50,16 @@
 - **Zahlreiche weitere Tipps und Tricks** von uns und anderen Gästen findet ihr im Gästebuch in der rechten Schublade des Esstisches oben. Ihr könnt gerne weitere Tipps und Meldungen hinterlassen und’s dann wieder zurücklegen.
 
 ## Oft gestellte Fragen
+
+> Wie gelange ich vom Schiff zum Spiti Pia? <a id="karten"></a>
+
+Im Sommer ist die Stadt abends meist für Fussgänger gesperrt. Es empfiehlt sich deshalb von äusseren Hafen die folgende Umfahrt zu wählen:
+
+![Tinos to Triandaros by Car (Summer Season)](tinos-to-triandaros-by-car-summer.png)
+
+Im Dorf angekommen, wählt man folgende Treppe zum Spiti Pia; Mit Blau markiert sind Parkplätze, Gelb die Treppe und Pink das Spiti Pia:
+
+![Treppe zum Spiti Pia](stairs-to-spiti-pia.png)
 
 > Wie verbinde ich mich mit dem WLAN des Spiti Pia?
 
@@ -163,6 +179,16 @@ Die Polas sind über die Jahre durch Pia, die Familie und Freunde entstanden.
 - **Numerous other tips and tricks** from us and other guests can be found in the guestbook in the right-hand drawer of the dining table above. You are welcome to leave further tips and messages and then put it back.
 
 ## Frequently asked questions
+
+> How do I get from the boat to Spiti Pia? <a id="maps"></a>
+
+In summer, the city is usually closed to pedestrians in the evenings. It is therefore advisable to take the following beltway from the outer harbour to Triandaros:
+
+![Tinos to Triandaros by Car (Summer Season)](tinos-to-triandaros-by-car-summer.png)
+
+Once in the village, choose the following stairs to Spiti Pia; marked in blue are parking spaces, yellow the stairs and pink Spiti Pia:
+
+![Stairs to Spiti Pia](stairs-to-spiti-pia.png)
 
 > How do I connect to the Spiti Pia WiFi?
 

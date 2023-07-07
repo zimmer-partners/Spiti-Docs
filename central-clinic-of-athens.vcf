@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.5.1//EN
+N:;;;;
+FN:Central Clinic of Athens SA
+ORG:Central Clinic of Athens SA;Privatklinik
+TITLE:Spital
+TEL;type=WORK;type=VOICE;type=pref:+30 21 03674041
+item1.TEL:+30 21 03674045
+item1.X-ABLabel:Extern
+item2.ADR;type=WORK;type=pref:;;Asklipiou 31;Athen;;10680;Griechenland
+item2.X-ABADR:gr
+URL;type=WORK;type=pref:https://www.centralclinic.gr/en/
+X-ABShowAs:COMPANY
+END:VCARD

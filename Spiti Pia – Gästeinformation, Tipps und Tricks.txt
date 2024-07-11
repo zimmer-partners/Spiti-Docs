@@ -11,12 +11,17 @@
 ## Essenzielles
 
 1. **Wasser** sind auf Tinos extrem rar und kostbar. Es gibt vielerorts noch keine Kläranlagen:
-    - **WC-Papier** in den dafür vorgesehenen Kübelchen entsorgen und *nicht* mit dem Abwasser runter spülen. Das des Spiti Pia ist leuchtgelb.
-    - **Duschen** wenn möglich kurz halten.
-    - **Geschirr** wenn möglich mit verschlossenem Abfluss waschen.
-    - **Wasser** wenn möglich wiederverwenden.
-    - **Wäsche** kann man mit der Maschine in der Küche waschen. Bitte vor dem ersten Waschgang die Gebrauchsanleitung lesen, wieder auf die Maschine legen und *Calgon* zusetzen.
-    - **Spüllmittel**, Waschmittel, Shampoos und andere Zusätze so sparsam wie möglich einsetzen.
+	- **Trinken** sollte man das Wasser im Spiti nicht, weil die Wasserversorgung bei Unterbrüchen über einen Tank vorübergehen sichergestellt wird. Siehe 2. unten.
+	- **WC-Papier** in den dafür vorgesehenen Kübelchen entsorgen und *nicht* mit dem Abwasser runter spülen. Das des Spiti Pia ist leuchtgelb.
+	- **Duschen** wenn möglich kurz halten.
+	- **Geschirr** wenn möglich mit verschlossenem Abfluss waschen.
+	- **Wasser** wenn möglich wiederverwenden.
+	- **Wäsche** kann man mit der Maschine in der Küche waschen. Bitte vor dem ersten Waschgang die Gebrauchsanleitung lesen, wieder auf die Maschine legen und *Calgon* zusetzen.
+	- **Spüllmittel**, Waschmittel, Shampoos und andere Zusätze so sparsam wie möglich einsetzen.
+2. **Rationierung und Unterbrechung der Wasserzufuhr** sind in den Sommermonaten immer möglich. Vor allem wenn im Winter und Frühling wenig Regen fiel. Bitte beachtet:
+	- Ein **Wassertank von 500 Liter** auf dem Dach des Hauses stellt die Wasserversorgung auch bei einer Unterbrechung zwischenzeitlich sicher. (500 Liter entsprechen 2-4 europäischen Badewannen.)
+	- Läuft der **Tank leer**, gibt es im ganzen Haus kein Wasser mehr bis neues Wasser eingespeist wird. 
+	- Bei einer Unterbrechung der Wasserzufuhr ist es deshalb essenziell den **Wasserverbrauch auf das Nötigste einzuschränken**.
 2. **Strom** stammt auf der Insel fast ausschliesslich aus nicht-erneuerbaren Quellen und ist teuer:
     - **Warmwasser** jeweils nach Gebrauch über den Schalter *Boiler* im unteren Verteilerkasten ausschalten und zirka 10 Minuten vor Gebrauch einschalten.
     - **Heizstrahler** und alle anderen Heizungen in den Sommermonaten und der Zwischensaison nicht benutzen.
@@ -142,12 +147,17 @@ Die Polas sind über die Jahre durch Pia, die Familie und Freunde entstanden.
 ## Essentials
 
 1. **Water** is extremely rare and precious on Tinos. In many places there are still no sewage treatment plants:
-    - **Dispose of toilet paper** in the buckets provided and do *not* flush it down the drain. Spiti Pia's bucket is bright yellow.
-    - **Keep showers** short if possible.
-    - **Wash dishes** with the drain closed if possible.
-    - **Reuse water** whenever possible.
-    - **Laundry** can be washed in the machine in the kitchen. Please read the instructions before the first wash, put them back on the machine and add *Calgon* before staring the program.
-    - **Use detergents**, washing powder, shampoos and other additives as sparingly as possible.
+	- Do not **drink** the water in the Spiti, as the water supply is temporarily ensured through a tank during interruptions. See 2. below.
+	- **Dispose of toilet paper** in the buckets provided and do *not* flush it down the drain. Spiti Pia's bucket is bright yellow.
+	- **Keep showers** short if possible.
+	- **Wash dishes** with the drain closed if possible.
+	- **Reuse water** whenever possible.
+	- **Laundry** can be washed in the machine in the kitchen. Please read the instructions before the first wash, put them back on the machine and add *Calgon* before staring the program.
+	- **Use detergents**, washing powder, shampoos and other additives as sparingly as possible.
+2. **Rationing and Interruption of Water Supply** are always possible during the summer months, especially if there was little rain in winter and spring. Please note:
+   - A **water tank of 500 liters** on the roof of the house ensures water supply temporarily during an interruption. (500 liters correspond to 2-4 European bathtubs.)
+   - If the **tank runs empty**, there will be no water in the entire house until new water is supplied.
+   - During a water supply interruption, it is crucial to **limit water consumption to the absolute minimum**.
 2. **Electricity** on the island comes almost exclusively from non-renewable sources and is expensive:
     - **Switch off hot water** after each use with the *boiler* switch in the lower distribution box and switch it on about 10 minutes before use.
     - **Do not use radiators** and all other heaters during the summer months and in the off-season.
